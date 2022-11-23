@@ -22,7 +22,6 @@
   - 프론트앤드  
     - Vanilla JS
     - BootStrap 5.2.2
-    - 
 
 
 - 담당 업무
