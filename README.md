@@ -5,8 +5,8 @@
 - 개발 기간 : 2022.10.03 ~ 22.11.16 (약 6주)
 - 참여 인원 : 5명
 - 개발 환경 
-  - eclipse
-  - Github
+  - Eclipse
+  - Gitub
   - Spring 4.0, Apache Tomcat 9.0.43, BootStrap 5.2.2, Mybatis
   - Java, Ajax, Jquery, MVC Ptternr
   - Oracle 11.5.0.56 DataBase
