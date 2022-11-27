@@ -12,7 +12,7 @@
   - Oracle 11.5.0.56 DataBase
   
 #### 사용 기술
-  - 백앤드 
+  - 백앤드
     - Java 11.0.10
     - Spring 4.0 
     - Maven
