@@ -8,7 +8,7 @@
   - Eclipse
   - Gitub
   - Spring 4.0, Apache Tomcat 9.0.43, BootStrap 5.2.2, Mybatis
-  - Java, Ajax, Jquery, MVC Patternr
+  - Java, Ajax, Jquery, MVC Pattern
   - Oracle 11.5.0.56 DataBase
   
 #### 사용 기술
