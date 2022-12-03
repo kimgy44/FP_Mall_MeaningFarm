@@ -12,22 +12,6 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 - 참여 인원 : 5명
 - 회의록 : 📒<a href="https://messenger-kh.notion.site/86c8876e465c4caa8703e6c844bf3a48">Notion
 - 개발 환경 및 사용기술
-  - Eclipse, Visual Studio Code
-  - Gitub
-  - Spring 4.0, Apache Tomcat 9.0.43, BootStrap 5.2.2, Mybatis
-  - Jquery, MVC Pattern
-- 사용기술
-  - 백앤드
-    - Java 11.0.10
-    - Spring 4.0 
-    - Maven
-    - Oracle DB
-    - Ajax
-    - Oracle 11.5.0.56 DataBase  
-  - 프론트앤드  
-    - JavaScript
-    - BootStrap 5.2.2
-    - HTML5/CSS
   
 <table>
   <tr>
