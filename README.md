@@ -32,6 +32,7 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
     - HTML5/CSS
     </summery>
   <details>
+    
 - 담당 업무
   - 프로젝트 개발환경 구축 및 설계 참여
   - 상품 목록 페이지
