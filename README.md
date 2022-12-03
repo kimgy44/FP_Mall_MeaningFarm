@@ -33,15 +33,12 @@
     - Git Merge를 통한 소스통합
 
 ## Implements
-#### 상품 목록
-
-
-#### 상품 상세
+#### 상품 목록 및 상품상세 페이지
+  https://user-images.githubusercontent.com/98031858/205428148-a1399162-9af7-4525-bddf-577b744842bb.mp4
 
 #### 장바구니
 
 #### ERD - erwin 
-
-![Meaning Farm](https://user-images.githubusercontent.com/98031858/202108666-c7389c85-ce1d-427c-8e0e-ab38d89e7bcb.jpg)
+  ![Meaning Farm](https://user-images.githubusercontent.com/98031858/202108666-c7389c85-ce1d-427c-8e0e-ab38d89e7bcb.jpg)
 
 
