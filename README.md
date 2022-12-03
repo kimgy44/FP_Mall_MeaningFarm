@@ -29,16 +29,6 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
     - BootStrap 5.2.2
     - HTML5/CSS
   
-|       개발환경       	|          사용기술         	                    ||
-|:--------------------:	|:-------------------------:	|:---------------:	|
-|        Eclipse       	|         **백앤드**          |  **프론트앤드**   |
-|  Visual Studio Code  	|        Java 11.0.10       	|    JavaScript   	|
-|         Gitub        	|         Spring 4.0        	| BootStrap 5.2.2 	|
-|      Spring 4.0      	|           Maven           	|    HTML5/CSS    	|
-| Apache Tomcat 9.0.43 	|         Oracle DB         	|                 	|
-|        Mybatis       	|            Ajax           	|                 	|
-|      MVC Pattern     	| Oracle 11.5.0.56 DataBase 	|                 	|
-  
 <table>
   <tr>
     <th rowspan="2">개발환경</th>
