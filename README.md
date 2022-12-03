@@ -68,11 +68,12 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 
 ## Implements
 #### 상품 목록 및 상품상세 페이지
-  https://user-images.githubusercontent.com/98031858/205428148-a1399162-9af7-4525-bddf-577b744842bb.mp4
+    https://user-images.githubusercontent.com/98031858/205428148-a1399162-9af7-4525-bddf-577b744842bb.mp4
 
 #### 장바구니
     삭제
     https://user-images.githubusercontent.com/98031858/205433580-2c83a226-35f8-47f9-8e80-e6640a154acb.mp4
+    
     추가 및 
     https://user-images.githubusercontent.com/98031858/205433579-76afea91-d56c-479a-8705-45b455737726.mp4
     
