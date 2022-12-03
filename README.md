@@ -11,7 +11,7 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 ## Description
 - 개발 기간 : 2022.10.03 ~ 22.11.16 (약 6주)
 - 참여 인원 : 5명
-- 회의록 : <a href="https://messenger-kh.notion.site/86c8876e465c4caa8703e6c844bf3a48">노션바로가기
+- 회의록 : 📒<a href="https://messenger-kh.notion.site/86c8876e465c4caa8703e6c844bf3a48">Notion
 - 개발 환경 
   - Eclipse, Visual Studio Code
   - Gitub
