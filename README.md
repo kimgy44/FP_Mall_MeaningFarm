@@ -35,25 +35,25 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
         <td></td>
       </tr>
       <tr>
-        <td>Spring 4.0</td>
+        <td>Apache Tomcat 9.0.43</td>
         <td>Maven</td>
         <td>HTML5/CSS</td>
         <td></td>
       </tr>
       <tr>
-        <td>Apache Tomcat 9.0.43</td>
+        <td>Mybatis</td>
         <td>Oracle DB</td>
         <td>jsp</td>
         <td></td>  
       </tr>
       <tr>
-        <td>Mybatis</td>
+        <td>MVC Pattern</td>
         <td>Ajax</td>
         <td>Jquery</td>
         <td></td>
       </tr>
       <tr>
-        <td>MVC Pattern</td>
+        <td></td>
         <td>Oracle DB 11.5.0</td>
         <td></td>
         <td></td>
