@@ -13,7 +13,7 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 - 회의록 : 📒<a href="https://messenger-kh.notion.site/86c8876e465c4caa8703e6c844bf3a48">Notion
 - 개발 환경 및 사용기술
     <table>
-      <tr class="text-align-center">
+      <tr style="text : center">
         <th rowspan="2">개발환경</th>
         <th colspan="2">사용기술</th>
       </tr>
