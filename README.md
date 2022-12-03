@@ -42,8 +42,7 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 <table>
   <tr>
     <th rowspan="2">개발환경</th>
-    <th>사용기술</th>
-    <th></th>
+    <th colspan="2">사용기술</th>
   </tr>
   <tr>
     <th>백앤드</th>
