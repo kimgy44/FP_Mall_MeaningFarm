@@ -41,19 +41,18 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
   
 <table>
   <tr>
-    <td>개발환경</td>
-    <td>사용기술</td>
+    <th>개발환경</th>
+    <th>사용기술</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>백앤드</th>
+    <th>프론트앤드</th>
   </tr>
   <tr>
     <td>Eclipse</td>
-    <td>Visual Studio Code</td>
-    <td>Visual Studio Code</td>
-    <td>Visual Studio Code</td>
-    <td>Visual Studio Code</td>
-  </tr>
-  <tr>
-    <td>d</td>
-    <td>d</td>
+    <td>Java 11.0.10</td>
+    <td>JavaScript</td>
   </tr>
 </table>
   
