@@ -56,12 +56,12 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
   <tr>
     <td>Spring 4.0</td>
     <td>Oracle DB</td>
-    <td></td>
+    <td>jsp</td>
   </tr>
   <tr>
     <td>Apache Tomcat 9.0.43</td>
     <td>Ajax</td>
-    <td></td>
+    <td>Jquery</td>
   </tr>
   <tr>
     <td>Mybatis</td>
