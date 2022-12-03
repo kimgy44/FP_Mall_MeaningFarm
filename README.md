@@ -94,6 +94,8 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 ### 클래스설계
   ![image](https://user-images.githubusercontent.com/98031858/205436518-d9077613-d152-4813-ba0a-f1f886c4606b.png)
 
+### 요구사항정의서  
+
 ### 공정표
   ![image](https://user-images.githubusercontent.com/98031858/205438044-575c883b-2cef-43c0-9cae-5a1797a315bb.png)
 
