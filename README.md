@@ -39,6 +39,21 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 |        Mybatis       	|            Ajax           	|                 	|
 |      MVC Pattern     	| Oracle 11.5.0.56 DataBase 	|                 	|
   
+<table>
+  <tr>
+    <td>d</td>
+    <td>d</td>
+  </tr>
+  <tr>
+    <td>d</td>
+    <td>d</td>
+  </tr>
+  <tr>
+    <td>d</td>
+    <td>d</td>
+  </tr>
+</table>
+  
 - 담당 구현 업무
   - 프로젝트 개발환경 구축 및 설계 참여
   - 상품 목록 페이지
