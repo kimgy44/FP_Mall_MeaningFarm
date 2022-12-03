@@ -28,10 +28,12 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
     - JavaScript
     - BootStrap 5.2.2
     - HTML5/CSS
+  
 | **roqkfghksrud** | **tkdydrltnf** |       |
 |:----------------:|:--------------:|:-----:|
 |                  |      back      | front |
 |                  |                |       |    
+  
 - 담당 구현 업무
   - 프로젝트 개발환경 구축 및 설계 참여
   - 상품 목록 페이지
