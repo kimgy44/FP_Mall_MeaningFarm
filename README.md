@@ -67,6 +67,17 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
     <td>Spring 4.0</td>
     <td>Oracle DB</td>
   </tr>
+  <tr>
+    <td>Apache Tomcat 9.0.43</td>
+    <td>Ajax</td>
+  </tr>
+  <tr>
+    <td>Mybatis</td>
+    <td>Oracle 11.5.0.56 DataBase</td>
+  </tr>
+  <tr>
+    <td>MVC Pattern</td>
+  </tr>
 </table>
   
 - 담당 구현 업무
