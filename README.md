@@ -15,7 +15,7 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 - #### 프로젝트설계 | 📗<a href="https://docs.google.com/spreadsheets/d/16wqsdkrnTY0lv9_ZsNfPKA1qyX4L-sSRlwvjXk741II/edit?usp=sharing">Google Sheets </a><br />
   ※ 요구사항정의서 & 클래스설계 & 공정표
 - #### 화면정의서　 | 🎨<a href="https://www.figma.com/file/Samba0znr2Yde8c1d7UDPf/kh%ED%8C%8C%EC%9D%B4%EB%84%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?t=qAPUDJqspk7fZXH3-1">Figama
-- 개발 환경 및 사용기술
+- #### 개발 환경 및 사용기술
     <table>
       <tr align=center>
         <th rowspan="2">개발환경</th>
@@ -67,7 +67,7 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
     ![개발환경](https://user-images.githubusercontent.com/98031858/205435270-23a6037c-7070-4dbc-ab68-5542cff76fa1.jpg)
 
   
-- 담당 구현 업무
+- #### 담당 구현 업무
   - 프로젝트 개발환경 구축 및 설계 참여
   - 상품 목록 페이지
   - 상품 상세 페이지
