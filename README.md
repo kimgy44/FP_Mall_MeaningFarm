@@ -23,7 +23,7 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
         <th>협업툴</th>
       </tr>
       <tr>
-        <td>Eclipse</td>
+        <td>Eclipse 4.0.0</td>
         <td>Java 11.0.10</td>
         <td>JavaScript</td>
         <td>GitHub</td>
