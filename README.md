@@ -72,12 +72,12 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
   
 #### 장바구니
 장바구니 삭제
-  ![장바구니_삭제](https://user-images.githubusercontent.com/98031858/205434656-8373d0c0-9e15-4d34-890e-1b058f6d61b5.gif)
+  ![장바구니_삭제](https://user-images.githubusercontent.com/98031858/205434731-c43f5fd7-b53a-477a-9ef0-5a0636f26fe9.gif)
 
     
 장바구니 추가 및 수정
-  ![장바구니_추가_수정](https://user-images.githubusercontent.com/98031858/205434663-f9665d0a-515e-40c6-b669-bc177e038548.gif)
-    
+  ![장바구니_추가_수정](https://user-images.githubusercontent.com/98031858/205434734-8c801211-5d36-429c-a9df-fe9652ce3f67.gif)
+
 #### ERD - erwin 
   ![Meaning Farm](https://user-images.githubusercontent.com/98031858/202108666-c7389c85-ce1d-427c-8e0e-ab38d89e7bcb.jpg)
 
