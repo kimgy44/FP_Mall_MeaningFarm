@@ -53,6 +53,20 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
     <td>Java 11.0.10</td>
     <td>JavaScript</td>
   </tr>
+  <tr>
+    <td>Visual Studio Code</td>
+    <td>Spring 4.0</td>
+    <td>BootStrap 5.2.2</td>
+  </tr>
+  <tr>
+    <td>Gitub</td>
+    <td>Maven</td>
+    <td>HTML5/CSS</td>
+  </tr>
+  <tr>
+    <td>Spring 4.0</td>
+    <td>Oracle DB</td>
+  </tr>
 </table>
   
 - 담당 구현 업무
