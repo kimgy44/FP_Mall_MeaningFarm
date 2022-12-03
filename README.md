@@ -15,44 +15,52 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
     <table>
       <tr align=center>
         <th rowspan="2">개발환경</th>
-        <th colspan="2">사용기술</th>
+        <th colspan="3">사용기술</th>
       </tr>
       <tr align=center>
         <th>백앤드</th>
         <th>프론트앤드</th>
+        <th>협업툴</th>
       </tr>
       <tr>
         <td>Eclipse</td>
         <td>Java 11.0.10</td>
         <td>JavaScript</td>
+        <td></td>
       </tr>
       <tr>
         <td>Visual Studio Code</td>
         <td>Spring 4.0</td>
         <td>BootStrap 5.2.2</td>
+        <td></td>
       </tr>
       <tr>
         <td>Gitub</td>
         <td>Maven</td>
         <td>HTML5/CSS</td>
+        <td></td>
       </tr>
       <tr>
         <td>Spring 4.0</td>
         <td>Oracle DB</td>
         <td>jsp</td>
+        <td></td>  
       </tr>
       <tr>
         <td>Apache Tomcat 9.0.43</td>
         <td>Ajax</td>
         <td>Jquery</td>
+        <td></td>
       </tr>
       <tr>
         <td>Mybatis</td>
         <td>Oracle DB 11.5.0</td>
         <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>MVC Pattern</td>
+        <td></td>
         <td></td>
         <td></td>
       </tr>
