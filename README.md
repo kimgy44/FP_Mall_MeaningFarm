@@ -53,7 +53,7 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
         <td>Discord</td>
       </tr>
       <tr>
-        <td></td>
+        <td>폭포수 모형</td>
         <td>Oracle DB 11.5.0</td>
         <td></td>
         <td>ERDcloud</td>
