@@ -73,7 +73,7 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
   - 장바구니 
   - GitHub repository 관리
     - Git Merge를 통한 소스통합
-  - 개인작업기록 : 📖<a href="https://messenger-kh.notion.site/f23dc7461012499da5dde48d981eae96?v=6de459d1fc824491b56020089648b6ca">
+  - 개인작업기록 : 📖<a href="https://messenger-kh.notion.site/f23dc7461012499da5dde48d981eae96?v=6de459d1fc824491b56020089648b6ca">Notion
 
 ## Implements
 ### 상품 목록 및 상품상세 페이지
