@@ -83,7 +83,13 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 장바구니 추가 및 수정
   ![장바구니_추가_수정](https://user-images.githubusercontent.com/98031858/205434734-8c801211-5d36-429c-a9df-fe9652ce3f67.gif)
 
+---
+    
 ### ERD(Entity Relationship Diagram) : ERwin 툴사용 
   ![Meaning Farm](https://user-images.githubusercontent.com/98031858/202108666-c7389c85-ce1d-427c-8e0e-ab38d89e7bcb.jpg)
+
+### 클래스설계
+  ![image](https://user-images.githubusercontent.com/98031858/205436518-d9077613-d152-4813-ba0a-f1f886c4606b.png)
+
 
 
