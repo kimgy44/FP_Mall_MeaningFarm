@@ -7,7 +7,7 @@
 Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역경제 활성화를 목표로 제작하였습니다.
 </p>
 
-  <span style="color:red">※ 회의록 & 트러블슈팅(버그) & 진행상황</span>
+  <span style="color:red"> 회의록 & 트러블슈팅(버그) & 진행상황</span>
 
 ## Description
 - 개발 기간　　| 2022.10.03 ~ 22.11.16 (약 6주)
