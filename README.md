@@ -13,7 +13,9 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 - 참여 인원 : 5명
 - 회의록 : 📒<a href="https://messenger-kh.notion.site/86c8876e465c4caa8703e6c844bf3a48">Notion
   <tr>
-    <td>개발환경</td>
+    <th>개발환경</th>
+    <td> Eclipse, Visual Studio Code </td>
+    <td> Gitub </td>
   </tr>
   <tr>
     <td>개발환경</td>
