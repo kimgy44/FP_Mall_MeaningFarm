@@ -10,8 +10,8 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 ## Description
 - #### 개발 기간　　| 2022.10.03 ~ 22.11.16 (약 6주)
 - #### 참여 인원　　| 5명
-- #### 기록　　　　 | 📒 <a href="https://messenger-kh.notion.site/86c8876e465c4caa8703e6c844bf3a48">Notion </a> 
-  > ###### 회의록 & 트러블슈팅(버그) & 진행상황</span>
+- #### 기록　　　　 | 📒 <a href="https://messenger-kh.notion.site/19f39c963c4c4dabbcbd2a898020e151">Notion </a> 
+  > ###### 회의록 & 트러블슈팅(버그) & 진행상황</span> & 개인작업
 - #### 프로젝트설계 | 📗 <a href="https://docs.google.com/spreadsheets/d/16wqsdkrnTY0lv9_ZsNfPKA1qyX4L-sSRlwvjXk741II/edit?usp=sharing">Google Sheets </a><br />
   > ###### 요구사항정의서 & 클래스설계 & 공정표
 - #### 화면정의서　 | 🎨 <a href="https://www.figma.com/file/Samba0znr2Yde8c1d7UDPf/kh%ED%8C%8C%EC%9D%B4%EB%84%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?t=qAPUDJqspk7fZXH3-1">Figama </a><br />
@@ -76,7 +76,6 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
   - 장바구니 
   - GitHub repository 관리
     - Git Merge를 통한 소스통합
-  - 개인작업기록 | 📖<a href="https://messenger-kh.notion.site/f23dc7461012499da5dde48d981eae96?v=6de459d1fc824491b56020089648b6ca">Notion
 
 ## Implements
 ### 상품 목록 및 상품상세 페이지
