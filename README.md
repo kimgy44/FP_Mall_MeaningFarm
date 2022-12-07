@@ -79,15 +79,24 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 
 ## Implements
 ### 상품 목록 및 상품상세 페이지
-  ![상품리스트_상품상세](https://user-images.githubusercontent.com/98031858/205434587-1ac277c7-3a3d-4ef4-bf3e-6f05292b1f1e.gif)
+  - 상품리스트 데이터 조회 <br />
+  - 상품 클릭시 해당 상품페이지로 이동
   
+  ![상품리스트_상품상세_AdobeExpress](https://user-images.githubusercontent.com/98031858/206074881-6aa2e0b3-2086-406e-ad17-a89b91840b9c.gif)
+
 ### 장바구니
 #### 장바구니 삭제
-  ![장바구니_삭제](https://user-images.githubusercontent.com/98031858/205434731-c43f5fd7-b53a-477a-9ef0-5a0636f26fe9.gif)
-    
-#### 장바구니 추가 및 수정
-  ![장바구니_추가_수정](https://user-images.githubusercontent.com/98031858/205434734-8c801211-5d36-429c-a9df-fe9652ce3f67.gif)
-    
+  - Ajax 통신을 이용한 비동기 삭제 처리 <br />
+  - 체크박스 선택, 상품 삭제
+  
+  ![장바구니_삭제_AdobeExpress](https://user-images.githubusercontent.com/98031858/206076533-db185b82-4005-43ff-9e1c-0c175a87dbe1.gif)
+
+#### 장바구니 추가 및 수량변경
+  - Ajax 통신을 이용한 추가 <br />
+  - Ajax 통신을 이용한 수량 변경
+  
+  ![장바구니_추가및수정_AdobeExpress](https://user-images.githubusercontent.com/98031858/206076539-75918ac5-af39-45db-8f86-1b33e6a0979b.gif)
+
 ---
     
 ### ERD(Entity Relationship Diagram) : ERwin 툴사용 
