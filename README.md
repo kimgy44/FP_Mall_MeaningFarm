@@ -87,13 +87,12 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
 ### 장바구니
 #### 장바구니 삭제
   - Ajax 통신을 이용한 비동기 삭제 처리 <br />
-  - 체크박스 선택, 상품 삭제
+    - 체크박스 선택 후, 삭제 버튼 클릭
   
   ![장바구니_삭제_AdobeExpress](https://user-images.githubusercontent.com/98031858/206076533-db185b82-4005-43ff-9e1c-0c175a87dbe1.gif)
 
 #### 장바구니 추가 및 수량변경
-  - Ajax 통신을 이용한 추가 <br />
-  - Ajax 통신을 이용한 수량 변경
+  - Ajax 통신을 이용한 장바구니 상품 추가 및 수량 변경
   
   ![장바구니_추가및수정_AdobeExpress](https://user-images.githubusercontent.com/98031858/206076539-75918ac5-af39-45db-8f86-1b33e6a0979b.gif)
 
