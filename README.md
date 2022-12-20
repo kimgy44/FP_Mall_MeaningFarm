@@ -36,33 +36,33 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
       </tr>
       <tr>
         <td>Visual Studio Code</td>
-        <td>Spring 4.0</td>
+        <td>Ajax</td>
         <td>BootStrap 5.2.2</td>
         <td>Notion</td>
       </tr>
       <tr>
         <td>Apache Tomcat 9.0.43</td>
-        <td>Maven</td>
+        <td></td>
         <td>HTML5/CSS</td>
         <td>Figma</td>
       </tr>
       <tr>
         <td>Mybatis</td>
-        <td>Oracle DB</td>
+        <td></td>
         <td>jsp</td>
         <td>Slack</td>  
       </tr>
       <tr>
-        <td>MVC Pattern</td>
-        <td>Ajax</td>
-        <td>Jquery</td>
-        <td>Discord</td>
-      </tr>
-      <tr>
-        <td></td>
         <td>Oracle DB 11.5.0</td>
         <td></td>
+        <td>Jquery</td>
         <td>ERDcloud</td>
+      </tr>
+      <tr>
+        <td>Spring 4.0</td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
     </table>
     
