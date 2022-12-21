@@ -49,13 +49,13 @@ Meaning Farm 은 지역특산품을 소개하고, 소비를 진작하여 지역�
       <tr>
         <td>Mybatis</td>
         <td></td>
-        <td>jsp</td>
+        <td>Jquery</td>
         <td>Slack</td>  
       </tr>
       <tr>
         <td>Oracle DB 11.5.0</td>
         <td></td>
-        <td>Jquery</td>
+        <td></td>
         <td>ERDcloud</td>
       </tr>
       <tr>
